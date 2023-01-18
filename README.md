@@ -20,7 +20,7 @@ alqoritm qurmağı, yeni dil və texnalogiyaları öyrənməyi xoşlayıram
 ### 🛠 &nbsp; Bilik Və Bacarıqlar :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="codeigniter" alt="codeigniter" width="40" height="40"/>&nbsp;
